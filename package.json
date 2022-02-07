@@ -1,0 +1,17 @@
+{
+  "name": "proyecto-tipo-de-cambio",
+  "version": "1.0.0",
+  "description": "Aplicacion que se conecta a la API del BCCR y devuelve el tipo de cambio del dia (dolar/colones)  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joseph A. Garcia Barrantes",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.7.1",
+    "xml2js": "^0.4.23",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
